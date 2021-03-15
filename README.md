@@ -61,6 +61,7 @@ Collect some books and papers about distributed sysntem
 [9. Auto-tuning RocksDB.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
 [10. Optimizing Space Amplification in RocksDB.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
 [11. dCompaction_ Speeding up Compaction of the LSM-Tree via Delayed Compaction.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
+[12.SpanDB: A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)
 <br />
 ## Distributed Trasaction<br />
 [ramp.pdf](https://github.com/BaronStack/book_paper/tree/master/Distributed%20Trasaction)<br />
