@@ -46,7 +46,8 @@ Collect some books and papers about distributed sysntem
 [7. raft.pdf](https://github.com/BaronStack/book_paper/tree/master/MIT%206_824%20learning%20paper)<br />
 <br />
 ## LSM read 优化<br />
-[Range Query Filtering.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20read%20%E4%BC%98%E5%8C%96)<br />
+[1. Range Query Filtering.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20read%20%E4%BC%98%E5%8C%96)<br />
+[2. FAST '21 - REMIX: Efficient Range Query for LSM-trees](https://github.com/BaronStack/book_paper/tree/master/LSM%20read%20%E4%BC%98%E5%8C%96)<br />
 <br />
 ## LSM compaction 优化/<br />
 [1. PebblesDB- Building Key-Value Stores using Fragmented Log-Structured Merge Trees.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
