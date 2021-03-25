@@ -35,6 +35,8 @@ Collect some books and papers about distributed sysntem
 [1. FoundationDB.pdf](https://github.com/BaronStack/book_paper/tree/master/Distributed%20DB)<br />
 [2. TiDB- A Raft-based HTAP Database.pdf](https://github.com/BaronStack/book_paper/tree/master/Distributed%20DB)<br />
 [3. Distributed DB/MyRocks-LSM-Tree-Database-Storage-Engine-Serving-Facebooks-Social-Graph.pdf](https://github.com/BaronStack/book_paper/tree/master/Distributed%20DB)<br />
+[4. Google Spanner](https://github.com/BaronStack/book_paper/tree/master/Distributed%20DB)<br />
+[5. Google F1](https://github.com/BaronStack/book_paper/tree/master/Distributed%20DB)<br />
 <br />
 ## MIT 6_824 learning paper<br />
 [1. High-throughput chain replication for read-mostly workloads.pdf](https://github.com/BaronStack/book_paper/tree/master/MIT%206_824%20learning%20paper)<br />
@@ -61,7 +63,8 @@ Collect some books and papers about distributed sysntem
 [9. Auto-tuning RocksDB.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
 [10. Optimizing Space Amplification in RocksDB.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
 [11. dCompaction_ Speeding up Compaction of the LSM-Tree via Delayed Compaction.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
-[12.SpanDB: A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)
+[12. SpanDB: A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
+[13. FPGA-Accelerated Compactions for LSM-based Key-Value Store.pdf](https://github.com/BaronStack/book_paper/tree/master/LSM%20compaction%20%E4%BC%98%E5%8C%96)<br />
 <br />
 ## Distributed Trasaction<br />
 [ramp.pdf](https://github.com/BaronStack/book_paper/tree/master/Distributed%20Trasaction)<br />
@@ -83,6 +86,7 @@ Collect some books and papers about distributed sysntem
 [5. IntelOptaneMemoryEvalGuide.pdf](https://github.com/BaronStack/book_paper/tree/master/%E6%96%B0%E7%A1%AC%E4%BB%B6)<br />
 [6. CPU-pipeline.pdf](https://github.com/BaronStack/book_paper/tree/master/%E6%96%B0%E7%A1%AC%E4%BB%B6)<br />
 [7. numa overview.pdf](https://github.com/BaronStack/book_paper/tree/master/%E6%96%B0%E7%A1%AC%E4%BB%B6)<br />
+[8. Linux Support for NUMA Hardware](https://github.com/BaronStack/book_paper/tree/master/%E6%96%B0%E7%A1%AC%E4%BB%B6)<br />
 <br />
 ## Engine Structure<br />
 [1. LSM-based Storage Techniques- A Survey.pdf](https://github.com/BaronStack/book_paper/tree/master/Engine%20Structure)<br />
